@@ -1,4 +1,4 @@
-# Use a base image with Haskell and Stack pre-installed
+S# Use a base image with Haskell and Stack pre-installed
 FROM haskell9.6.3
 
 # Install the necessary system dependencies for Duckling
